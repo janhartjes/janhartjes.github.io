@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Jan Hartjes</title>
+    <link>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug.html</link>
+    <description>Jan Hartjes</description>
+    <item>
+      <title>1</title>
+      <link>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug.html#0</link>
+      <guid isPermaLink="false">e6fbf370-c966-4ca2-9c3f-915513a63b06</guid>
+      <enclosure url="http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00005/CCF01312007_00005.jpg" length="107088" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00005/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00005/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00005/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;1&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>2</title>
+      <link>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug.html#1</link>
+      <guid isPermaLink="false">ebfe752e-efac-40dd-9243-7202f774eab3</guid>
+      <enclosure url="http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00010/CCF01312007_00010.jpg" length="109070" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00010/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00010/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.janhartjes.nl/nl/Voorbeelden_werk/Paginas/Brug_files/Media/CCF01312007_00010/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;2&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
